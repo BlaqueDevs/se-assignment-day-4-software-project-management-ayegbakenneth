@@ -3,7 +3,6 @@
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 Timely delivery is crutial in order to meet deadlines, which ensures that client expectations are fulfilled, which builds trust and satisfaction.
-
 It also ensures that the product reach the market in an early time. Project managers can also ensures deadlines are met by clear planning and developing
 a detailed project plan with defined milestones and deliverables.
 
@@ -14,6 +13,7 @@ Strategies to prevent budget overruns include:
 Detailed Budget Planning: Create a comprehensive budget that includes all potential costs and contingencies.
 
 Cost Monitoring: Regularly track expenses against the budget and identify variances early.
+
 Scope Management: Clearly define project scope and manage changes through a formal process to avoid scope creep.
 
 Use of Technology: Implement project management software to track costs and resources in real-time.
@@ -30,6 +30,7 @@ Regular Audits: Conduct periodic financial reviews to ensure alignment with the 
 Agile methodologies is an iterative way of software development while waterfall is a sequential process, a step by step method of software development.
 
 Advantages of Agile Methodology:
+
 Flexibility: Agile is highly adaptive to changes in requirements, allowing for flexibility throughout the development process.
 
 Customer Involvement: Customers are involved in the development process, providing feedback and ensuring the final product meets their needs.
