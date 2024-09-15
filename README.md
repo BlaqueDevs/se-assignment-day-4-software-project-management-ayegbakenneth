@@ -9,7 +9,9 @@ a detailed project plan with defined milestones and deliverables.
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Effective cost control contribute to the success of a software product by maximizing resources, increasing profitability and reduces financial risk.
 Strategies to prevent budget overruns include:
+
 Detailed Budget Planning: Create a comprehensive budget that includes all potential costs and contingencies.
+
 Cost Monitoring: Regularly track expenses against the budget and identify variances early.
 Scope Management: Clearly define project scope and manage changes through a formal process to avoid scope creep.
 Use of Technology: Implement project management software to track costs and resources in real-time.
