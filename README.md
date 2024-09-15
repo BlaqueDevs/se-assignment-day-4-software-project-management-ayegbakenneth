@@ -111,7 +111,6 @@ Clear Organization: It provides a structured framework for organizing project ac
 
 Estimation and Budgeting: By breaking the project down into smaller components, the WBS helps in estimating costs, durations, and resource requirements for each work package.
 
-
 Progress Tracking: The WBS enables effective monitoring and control of project progress, allowing teams to track tasks, identify bottlenecks, and measure performance against predefined milestones.
 
 Scope Management: With a well-defined WBS, scope changes can be assessed more accurately, and their impact on the project can be evaluated before making adjustments.
@@ -122,6 +121,7 @@ alignment and understanding across all involved parties.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
 The benefits includes, time management, resource allocation, task dependencies, risk management, and performance monitoring.
+
 Gantt charts can assist through visualization, task dependencies, resource management, timeline adjustments, progress tracking and as a communication tool.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
