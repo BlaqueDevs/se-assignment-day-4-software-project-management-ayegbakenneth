@@ -2,11 +2,13 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15646164&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
+
 Timely delivery is crutial in order to meet deadlines, which ensures that client expectations are fulfilled, which builds trust and satisfaction.
 It also ensures that the product reach the market in an early time. Project managers can also ensures deadlines are met by clear planning and developing
 a detailed project plan with defined milestones and deliverables.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+
 Effective cost control contribute to the success of a software product by maximizing resources, increasing profitability and reduces financial risk.
 Strategies to prevent budget overruns include:
 
@@ -27,6 +29,7 @@ Risk Assessment: Identify financial risks early and establish contingency plans.
 Regular Audits: Conduct periodic financial reviews to ensure alignment with the budge.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+
 Agile methodologies is an iterative way of software development while waterfall is a sequential process, a step by step method of software development.
 
 Advantages of Agile Methodology:
@@ -95,7 +98,7 @@ Security Testing: Perform security assessments and penetration testing to identi
 
 Documentation: Maintain comprehensive documentation for code, architecture, design decisions, user manuals, and troubleshooting guides to aid future development and maintenance.
 
-It is important because of, customer satisfaction, reduced of costs, and enhanced reliability:
+It is important because of customer satisfaction, reduced of costs, and enhanced reliability:
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
